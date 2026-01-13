@@ -1,0 +1,431 @@
+"Artist";"Album";"Song";"Year";"Label";"start";"end";"deezer";"spotify";"itunes"
+"Veronique Sanson";"Hollywood";"Les délices d'hollywood";1977;"WEA";1708077390;1708077637;;;
+"Gene Krupa";"50 ans de musique de film";"""""Hooray for hollywood"""" extrait de Hollywood hotel (film)";1937;"WARNER BROS";1708077635;1708077769;;;
+"Chet Baker";"Bof/James Dean story";"Hollywood";1956;"PACIFIC JAZZ";1708077767;1708078069;"https://www.deezer.com/track/3405915";;
+"Romy Schneider";"Bof / Les choses de la vie";"La chanson d'Hélène";1969;"CAM";1708078068;1708078236;;;
+"Astral Bakers";"The whole story";"One more";2024;"SAGE MUSIC";1708078235;1708078501;;"https://open.spotify.com/track/1iUThS6fW1crr11U2vKKI2";
+"Chorale De La St John'S International School";"BOF / Les gamins";"Big jet plane";2013;"MY MAJOR COMPANY";1708078500;1708078737;;;
+"Silver Convention";"Bof / Studio 54";"Fly Robin fly";1975;"TOMMY BOY";1708078736;1708079031;;"https://open.spotify.com/track/07xGEPWlYVucgtL6TPipoO";"https://music.apple.com/fr/album/fly-robin-fly/394743923?i=394743930&uo=4"
+"Quartetto Italiano";"Mozart/Quatuor a cordes cd1";"Quatuor a cordes nº1 en Sol Maj K 80 : Allegro";;"PHILIPS";1708079028;1708079222;;;
+"Redbird";"Redbird";"I Gotta Get Drunk";2003;"SIGNATURE SOUNDS";1708079220;1708079338;;;
+"Micheal Nkole & His Apostles";"Afrique du Sud / South African gospel";"Hamba jona";2003;"WORLD MUSIC NETWORK";1708079337;1708079504;;;
+"Wando";"Brazilian beats 2";"Nega de obaluae";1988;"MR BONGO";1708079502;1708079728;;;
+"Janko Nilovic";"Underdog records collection / Vol.1";"Lights and shades";2014;"UNDERDOG RECORDS";1708079724;1708079914;;"https://open.spotify.com/track/7In2XQFb3bX6goAg5VaPCL";
+"Flavien Berger";"Sapon";"Sapon";2023;"PAN EUROPEAN RECORDINGS";1708079912;1708080103;"https://www.deezer.com/track/2521119241";"https://open.spotify.com/track/5hNK7NeURb8ZVYBD2vZuiU";"https://music.apple.com/fr/album/sapon/1721325841?i=1721326429&uo=4"
+"Yaya Bey";"Remember your north star";"Keisha";2022;"BIG DADA";1708080102;1708080278;"https://www.deezer.com/track/1687875357";"https://open.spotify.com/track/3x1OKu77rwp8IhXagtXx13";"https://music.apple.com/fr/album/keisha/1610345642?i=1610345886&uo=4"
+"Sad Night Dynamite";"Icy violence";"Icy violence";2020;"ATLANTIC";1708080277;1708080596;"https://www.deezer.com/track/1235048682";"https://open.spotify.com/track/6HGu4aLOtRqWVWh7ibMi4P";"https://music.apple.com/fr/album/icy-violence/1513221126?i=1513221127&uo=4"
+"Roberta Roman";"La petite Naples (Vol.2) Opérations Sultan";"Ecoutez les mandolines";2023;"ENTOURAGE CONTEMPO PRODUCTIONS";1708080591;1708080814;"https://www.deezer.com/track/2107770077";"https://open.spotify.com/track/7tfknWwsgyp8RgzfQQAyzB";
+"Marion Rampal";"Oizel";"Aux fleurs";2024;"LES RIVIERES SOUTERRAINES";1708080811;1708081054;"https://www.deezer.com/track/2585232342";"https://open.spotify.com/track/4KyMLlU7kmOj29aCWVytPF";"https://music.apple.com/fr/album/aux-fleurs/1721394113?i=1721395982&uo=4"
+"M. Ward";"Hold time";"Stars of Leo";2009;"4AD";1708081051;1708081246;"https://www.deezer.com/track/17126707";"https://open.spotify.com/track/1xxcVnUk1Owy2aaFMP9bPz";"https://music.apple.com/fr/album/stars-of-leo/303547006?i=303547029&uo=4"
+"Buddy Holly";"The best of Buddy Holly";"Rock me my baby";1957;"SEQUEL";1708081244;1708081352;;;"https://music.apple.com/fr/album/rock-me-my-baby/781329491?i=781329517&uo=4"
+"The Lemonheads";"BOF / Le loup de Wall Street";"Mrs. Robinson";1992;"VIRGIN";1708081351;1708081570;;"https://open.spotify.com/track/6NoPu1BEAtt24wOXdUAgkZ";"https://music.apple.com/fr/album/mrs-robinson/576801078?i=576802308&uo=4"
+"The Fearless Flyers";"The Fearless Flyers";"Barbara (Feat. Sandra Crouch)";2018;"VULF RECORDS";1708081568;1708081857;;;"https://music.apple.com/fr/album/barbara-feat-sandra-crouch/1451999272?i=1451999685&uo=4"
+"Tim Maia";"World psychedelic classic 4 : Nobody can live forever : The existential soul of Tim Maia";"Do leme ao pontal";1978;"LUAKA BOP";1708081735;1708081924;;;
+"War";"Anthology 1970-1994";"Why can't we be friends ?";1975;"UNITED ARTISTES RECORDS";1708081922;1708082143;;;
+"Soul Sugar";"Excursions in soul, reggae, funk & dub";"Never too much";2021;"GEE RECORDINGS";1708082140;1708082441;;;
+"Dave Bristow Quintet";"Unknown unknown";"Labyrinth";2022;"DISQUES JMS";1708082440;1708082773;;"https://open.spotify.com/track/59XR8aPrrL1Ssv1qUEBEfk";
+"Pokey Lafarge";"Rock bottom rhapsody";"End of my rope";2020;"NEW WEST RECORDS";1708082772;1708082949;;"https://open.spotify.com/track/7lTkFWrIfmGD4Woj3ZLDi4";"https://music.apple.com/fr/album/end-of-my-rope/1493686700?i=1493686708&uo=4"
+"Pearl Jam";"Vs";"Daughter";1993;"EPIC";1708082945;1708083178;;;"https://music.apple.com/fr/album/daughter-remastered/426656353?i=426656373&uo=4"
+"Canned Fish";"John fahey tribute album";"Dance of the inhabitants of the palace of King Philip XIV of Spain";1986;"TAKOMA";1708083164;1708083409;;;
+"Lee Hazlewood";"Strung out on something new : The Reprise recordings";"Houston (feat. Sanford clark)";1967;"RHINO RECORDS";1708083403;1708083561;;;
+"Jacques Higelin";"Amor doloroso";"Crocodail";2006;"EMI";1708083559;1708083836;"https://www.deezer.com/track/365935811";"https://open.spotify.com/track/4aqLGxPiLq1cnPqDnN8f3V";"https://music.apple.com/fr/album/crocoda%C3%AFl/1240249008?i=1240249201&uo=4"
+"Bo/Crocodile Dundee Iii";"Bof/Crocodile dundee III";"Up the Ladder - Into the Jungle";2001;"SILVA SCREEN";1708083835;1708083970;;;
+"Supertramp";"Some things never change";"Sooner or later";1997;"EMI";1708083969;1708084377;;;
+"Orquesta Akokan";"Orquesta Akokan";"No te hagas";2018;"DAPTONE RECORDS";1708084372;1708084603;;"https://open.spotify.com/track/25Uwd8SPN0j5864tU1vCTl";"https://music.apple.com/fr/album/no-te-hagas/1485038793?i=1485039378&uo=4"
+"Lisa Leblanc";"Pourquoi faire aujourd’hui (Poirier remix)";"Pourquoi faire aujourd'hui (Poirier remix)";2023;"NOVISA";1708084602;1708084821;;;
+"The Palmashow";"Palmashow : L'album";"Les petites victoires";2023;"BLAGBUSTER";1708084817;1708084930;;;
+"Moby";"Play";"Porcelain";1999;"MUTE";1708084929;1708085169;;;"https://music.apple.com/fr/album/porcelain-2006-remaster/1439434873?i=1439434876&uo=4"
+"Camilla Sparksss";"Lullabies";"Ode to those who can touch their toes";2023;"ON THE CAMPER RECORDS";1708085167;1708085385;"https://www.deezer.com/track/2484491061";"https://open.spotify.com/track/6MxmHkfus99PwD0WjP7VtB";"https://music.apple.com/fr/album/ode-to-those-who-can-touch-their-toes/1709944626?i=1709944634&uo=4"
+"Camille";"Ouï";"Langue";2017;"BECAUSE MUSIC";1708085378;1708085546;"https://www.deezer.com/track/445788842";"https://open.spotify.com/track/7rORHEUHP2og8h4GswCaco";"https://music.apple.com/fr/album/langue/1330522777?i=1330523557&uo=4"
+"Konstantin Scherbakov";"Leopold Godowsky : Musique pour piano / Vol 11";"Suite pour la main gauche seule : Gigue";2013;"MARCO POLO";1708085545;1708085803;;;
+"Bessie Smith";"Compil/Le jazz de Cabu";"Nobody knows you when you're down and out";1929;"NOCTURNE";1708085713;1708085901;"https://www.deezer.com/track/1029901";;"https://music.apple.com/fr/album/nobody-knows-you-when-youre-down-and-out-78rpm-version/740001646?i=740002087&uo=4"
+"Angel Bat Dawid";"The Oracle (Extraits)";"We are starzz";2019;"INTERNATIONAL ANTHEM";1708085895;1708086159;;"https://open.spotify.com/track/0Gnv71WeUO1T53N5jXqwoW";"https://music.apple.com/fr/album/we-are-starzz/1464500581?i=1464500588&uo=4"
+"Helado Negro";"Phasor";"Flores";2024;"4AD";1708086155;1708086351;"https://www.deezer.com/track/2625191202";"https://open.spotify.com/track/2rKFsHu1ac45nxrs6Lyxls";"https://music.apple.com/fr/album/flores/1708555076?i=1708555204&uo=4"
+"Les Pythons De La Fournaise";"L'orchestre du Piton";"Séga Trémolo";2021;"CATAPULTE RECORDS";1708086349;1708086470;"https://www.deezer.com/track/1364971062";"https://open.spotify.com/track/7l2Z4fm6adozNy2TvMP0TA";"https://music.apple.com/fr/album/s%C3%A9ga-tr%C3%A9molo/1565514695?i=1565514975&uo=4"
+"Stevie Wonder";"Talking book";"You are the sunshine of my life";1972;"MOTOWN";1708086467;1708086642;;"https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX";"https://music.apple.com/fr/album/you-are-the-sunshine-of-my-life/1440808973?i=1440808975&uo=4"
+"Benny Sings";"Sunny afternoon";"Sunny afternoon";2020;"STONES THROW RECORDS";1708086640;1708086808;;"https://open.spotify.com/track/0GoPfDYwRUpHtgbc9AHSSq";"https://music.apple.com/fr/album/sunny-afternoon/1545059519?i=1545059522&uo=4"
+"Vonfelt";"Vonfelt";"Je pars";2023;"VRAIMENT RECORDS";1708086800;1708087006;"https://www.deezer.com/track/2452069495";"https://open.spotify.com/track/1Pbp1s6AxyH9JDa7H9DtaO";"https://music.apple.com/fr/album/je-pars/1707551246?i=1707551247&uo=4"
+"Boards Of Canada";"Twoism";"Sixtyniner";1995;"WARP";1708087005;1708087317;"https://www.deezer.com/track/29375311";;"https://music.apple.com/fr/album/sixtyniner/274007376?i=274007377&uo=4"
+"Jeanne Added";"By your side";"Antidote";2022;"NAIVE";1708087312;1708087544;"https://www.deezer.com/track/1839640597";"https://open.spotify.com/track/6hfyg01cT0psERGwblYKs0";"https://music.apple.com/fr/album/antidote/1636713534?i=1636713549&uo=4"
+"Rokia Kone & Jacknife Lee";"Bamanan";"Bambougou n'tji";2022;"REAL WORLD RECORDS";1708087542;1708087800;;;"https://music.apple.com/fr/album/bambougou-ntji/1610308652?i=1610309342&uo=4"
+"Gabor Szabo";"Bacchanal & 1969";"Look of love";1969;"Cherry red records";1708087800;1708087995;;;
+"Sadat X";"BOF / One tough cop";"Feel it";1998;"LOLITA MUSIC";1708087993;1708088303;;;
+"Melodiesinfonie";"Softboi";"Life is easy (feat. Claudi Isaki)";2023;"MELODIESINFONIE";1708088301;1708088439;;;"https://music.apple.com/fr/album/life-is-easy-feat-claudi-isaki/1692528715?i=1692528734&uo=4"
+"Hiatus Kaiyote";"Everything’s beautiful";"Everything's beautiful";2024;"BRAINFEEDER";1708088436;1708088606;"https://www.deezer.com/track/2681324852";"https://open.spotify.com/track/3HkLJLoUHQbKwjn3krWvpg";
+"Isaac Hayes";"B.O.F / Shaft";"No name bar";1971;"EAST WEST";1708088605;1708088988;;;"https://music.apple.com/fr/album/no-name-bar/1440937741?i=1440938056&uo=4"
+"Juliette Greco";"Déshabillez-moi 1965-1969";"L'horoscope";1967;"PHILIPS";1708088971;1708089231;"https://www.deezer.com/track/927932";;
+"Animal Collective";"Isn't it now ?";"Broke Zodiac";2023;"DOMINO RECORDINGS";1708089097;1708089259;;"https://open.spotify.com/track/13VBnTHnLmgst3J4dF0zpH";"https://music.apple.com/fr/album/broke-zodiac/1696094288?i=1696094293&uo=4"
+"Umlaut Chamber Orchestra";"Zodiac suite";"III. Gemini";2023;"UMLAUT RECORDS";1708089258;1708089576;;"https://open.spotify.com/track/1whfl5siqIOZsdU5TrzPyI";"https://music.apple.com/fr/album/iii-gemini/1698205473?i=1698205891&uo=4"
+"Gruff Rhys";"Sadness sets me free";"Peace signs";2024;"ROUGH TRADE RECORDS";1708089465;1708089770;;"https://open.spotify.com/track/6BFdbl2HxPx9PsaGm9l16P";"https://music.apple.com/fr/album/peace-signs/1706554248?i=1706554275&uo=4"
+"Orchestral Manoeuvres In The Dark";"Architecture & morality";"Souvenir";1981;"VIRGIN";1708089763;1708089976;"https://www.deezer.com/track/3156223";;"https://music.apple.com/fr/album/souvenir/714757729?i=714758172&uo=4"
+"Charif Megarbane";"Marzipan (Habibi Funk 023) (Bonus Edition)";"Souk el ahad";;"HABIBI FUNK RECORDS";1708089969;1708090139;;"https://open.spotify.com/track/4ykaaBQsxP1pnL57LU5syd";"https://music.apple.com/fr/album/souk-el-ahad/1688225081?i=1688225297&uo=4"
+"Rachid Taha";"Diwan";"Malheureux toujours";1998;"BARCLAY";1708090137;1708090510;;;"https://music.apple.com/fr/album/malheureux-toujours/1443711578?i=1443712096&uo=4"
+"Chief Adjuah";"Bark out thunder roar out lightning";"Xodokan iko - hu na ney";2023;"ROPEADOPE RECORDS";1708090509;1708090745;"https://www.deezer.com/track/2290423005";"https://open.spotify.com/track/154oi6RxyrHRknLXM6iszX";
+"L Arpeggiata";"Music for a while";"The history of Timon of Athens Z 632 : Curtain tune on a ground - version pour cornet à bouquin flûte à bec violon percussions et basse continue";2014;"ERATO";1708090740;1708090903;;;
+"Someone";"Shapeshifter";"Blowin in the wind";2021;"TINY TIGER RECORDS / WARNER ADA";1708090899;1708091086;;;
+"Cleo Sol";"Gold";"Desire";2023;"FOREVER LIVING ORIGINALS";1708091082;1708091372;;"https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu";"https://music.apple.com/fr/album/desire/1708971575?i=1708972142&uo=4"
+"Galt McDermot";"Up from the basement - unreleased tracks : volume 1 et 2";"Ripped open by metal explosions";;"KILMARNOCK RECORDS";1708091365;1708091617;;;
+"BadBadNotGood";"Sour soul";"Sour soul";2015;"LEX RECORDS";1708091557;1708091723;;"https://open.spotify.com/track/6PdIJOOMKQGFxqnDZuT0Vo";
+"Beck";"Odelay";"Derelict";1996;"GEFFEN";1708091720;1708091971;"https://www.deezer.com/track/1158912";"https://open.spotify.com/track/03E3HMw3ivbvX9B7ijnLzm";"https://music.apple.com/fr/album/derelict/1453197774?i=1453197801&uo=4"
+"Mato";"Homework";"Oh yeah dub";2014;"FAVORITE RECORDINGS";1708091969;1708092044;;;
+"DJ Psychiatre";"Enter the chill zone";"A little treat";2023;"PONT NEUF RECORDS";1708092042;1708092285;;"https://open.spotify.com/track/0qWujelBRA4N1S8c0wCpRr";"https://music.apple.com/fr/album/a-little-treat/1660105737?i=1660105952&uo=4"
+"Moloko";"Catalogue / Value pak";"Sing it back";2006;"ECHO";1708092285;1708092562;;;
+"Oswela";"Moun péyi";"Moun péyi";2023;"BEAT X CHANGERS";1708092560;1708092822;;"https://open.spotify.com/track/1qU1dEr31XIqOZNWdSuOoT";"https://music.apple.com/fr/album/moun-p%C3%A9yi/1718922275?i=1718922282&uo=4"
+"Kassav";"Kassav/3 & 4 soucougnan";"Boléro";1982;"3A";1708092821;1708093176;;;
+"Chico Buarque (Chef d'orchestre)";"BOF / Quando o carnaval chegar";"Mambembe / Thème d'ouverture";1986;"FONTANA";1708093136;1708093347;;;
+"Dizzy Gillespie";"Jambo Caribe";"Poor Joe";1964;"VERVE";1708093255;1708093418;;"https://open.spotify.com/track/5xqYAlPBsapBrWKuzw4O1Y";"https://music.apple.com/fr/album/poor-joe/1434901076?i=1434901467&uo=4"
+"Stranger Cole & Gladdy";"This is trojan boss reggae";"Pretty cottage";1969;"TROJAN RECORDS";1708093411;1708093580;;;
+"Loretta Lynn";"Greatest hits";"Before i'm over you";1968;"MCA";1708093577;1708093729;"https://www.deezer.com/track/2687218492";"https://open.spotify.com/track/6I6en5REZj6HViF6f8JqrU";"https://music.apple.com/fr/album/before-im-over-you/1434914869?i=1434914883&uo=4"
+"Loving";"Any light";"Ask directions";2024;"LAST GANG RECORDS / MNRK";1708093727;1708093865;;"https://open.spotify.com/track/6rj9TNM1Av2qz4owW5QtRp";"https://music.apple.com/fr/album/ask-directions/1715079935?i=1715079943&uo=4"
+"Loving";"Any light";"The light in you";2024;"LAST GANG RECORDS / MNRK";1708093863;1708093956;;"https://open.spotify.com/track/5mdZuqCT0gNdhRbwbxfTKR";
+"The Beatles";"1967-1970 album bleu";"Strawberry fields forever";1967;"EMI";1708093955;1708094166;"https://www.deezer.com/track/126848591";"https://open.spotify.com/track/46JGVfEEiBScTaiP3Bnh27";"https://music.apple.com/fr/album/strawberry-fields-forever/1441133100?i=1441133101&uo=4"
+"Moodoid";"Moodoïd EP";"Je suis la montagne";2013;"ENTREPRISE";1708094164;1708094458;;"https://open.spotify.com/track/1cYb7xyv2TEhrS0iqwVAv3";"https://music.apple.com/fr/album/je-suis-la-montagne/1540649504?i=1540649505&uo=4"
+"Mild High Club";"Skiptracing";"Tesselation";2016;"STONES THROW";1708094454;1708094607;"https://www.deezer.com/track/446000952";"https://open.spotify.com/track/3BIzHNxAQbRTY4LCp1oMR1";"https://music.apple.com/fr/album/tesselation/1110226847?i=1110226864&uo=4"
+"Thom Janusz";"Ronn Forella moves !";"Mithra plane 2";1975;"UBIQUITY";1708094606;1708094862;;;"https://music.apple.com/fr/album/mithra-plane-2/1520310792?i=1520310794&uo=4"
+"Guru";"Le bien, le mal";"Le bien , le mal";1993;"CHRY";1708094860;1708095060;;;
+"Roberta Flack";"First take";"Compared to what";1969;"ATLANTIC";1708095058;1708095370;;"https://open.spotify.com/track/3ZTEMmFm3FzfEtjqJN32c1";"https://music.apple.com/fr/album/compared-to-what/355178034?i=355178040&uo=4"
+"Gregory Porter";"Liquid spirit";"Wind Song";2013;"BLUE NOTE";1708095368;1708095571;"https://www.deezer.com/track/69739113";"https://open.spotify.com/track/4LiWvGib67VUKKaLW0Y1xQ";"https://music.apple.com/fr/album/wind-song/1440861183?i=1440861339&uo=4"
+"Anne Queffelec";"Erik Satie : Oeuvres pour piano";"Fantaisie valse - pour piano";1993;"VIRGIN";1708095567;1708095689;;;
+"Machito";"Mambo domingo";"Relax mambo";1953;"ULM";1708095689;1708095878;;;
+"Eliades Ochoa";"Cuba/Ochoa Eliades/Tributo al Cuarteto Patria";"Yiri yiri bon";2000;"WEST/WIN";1708095877;1708096176;;;
+"Santana";"Ultimate Santana";"She's not there";1977;"CBS";1708096175;1708096420;;"https://open.spotify.com/track/44JITu0xanJn3TLMQZJw0G";"https://music.apple.com/fr/album/shes-not-there/871147087?i=871147099&uo=4"
+"The Black Keys";"Dropout boogie";"Baby i'm coming home";2022;"EASY EYE SOUND";1708096413;1708096600;;"https://open.spotify.com/track/52CwDGRLe2wwKQGy7VC7Zu";"https://music.apple.com/fr/album/baby-im-coming-home/1611850611?i=1611850666&uo=4"
+"The Offline";"Cap de l'Homy";"Cap de l'Homy";2023;"ROOT RECORDS";1708096600;1708096806;"https://www.deezer.com/track/2135786517";"https://open.spotify.com/track/7k2Ak8lgMI78whslvDzelR";
+"The Congos";"Image of Africa";"Music maker";1979;"YOUNG TREE RECORDS";1708096805;1708097046;;;
+"Diana Ross";"Anthology";"It's my house";1986;"TAMLA MOTOWN";1708097038;1708097239;;;
+"Say She She";"Silver";"Think about it";2023;"KARMA CHIEF RECORDS";1708097238;1708097407;;"https://open.spotify.com/track/3Bb2s3v1xpvgcuwqKtEVsN";"https://music.apple.com/fr/album/think-about-it/1695756465?i=1695756884&uo=4"
+"Molly Lewis";"On the lips";"Sonny";2024;"JAGJAGUWAR";1708097406;1708097565;;"https://open.spotify.com/track/4Oo1Uc3cN7eNJ9MYp61yFU";
+"Katerine";"Katerine";"Parivélib'";2010;"BARCLAY";1708097563;1708097735;;;
+"Tyler The Creator";"Scum fuck flower boy";"Garden shed";2017;"COLUMBIA RECORDS";1708097732;1708097962;;;
+"The Cure";"Three imaginary boys";"Three imaginary boys";1979;"FICT";1708097955;1708098148;"https://www.deezer.com/track/1170170";;"https://music.apple.com/fr/album/three-imaginary-boys/1444156804?i=1444157078&uo=4"
+"Comic Wow";"Library catalog music series : music for mysteries of mind space & time";"Salad days";2010;"ASTHMATIC HI";1708098146;1708098370;;;
+"Waylon Jennings";"Greatest hits Waylon Jennings";"Are you sure hank done it this way";1979;"RCA";1708098367;1708098537;;"https://open.spotify.com/track/5H4wGQLp7OFGOy43DXtIOJ";
+"Alain Bashung";"Climax.";"Pas question que j'perde le feeling";1979;"BARCLAY";1708098535;1708098766;;;"https://music.apple.com/fr/album/pas-question-que-jperde-le-feeling-remix-1992/1443035553?i=1443035827&uo=4"
+"Walker T Bone";"Stormy monday";"T bones that way";1992;"INSTANT";1708098762;1708099020;;;
+"Little Mary Staten";"The soulful side of gme & musette records";"Steppin stone";1964;"TRAMP RECORDS";1708098885;1708099011;;;
+"Carlton Jumel Smith & The Soul Seeders";"Pleasure";"Walking after midnight";2023;"LOVEMEDO RECORDS";1708099010;1708099231;;"https://open.spotify.com/track/1XemKScyzGr9xw9B8WVAza";
+"Voilaaa";"Remixes";"Tu mens devant moi (feat. Ramatou Traore) (Voilaaa remix)";2022;"FAVORITE RECORDINGS";1708099230;1708099475;;;
+"Daft Punk";"Musique /Vol.1 (1993 - 2005)";"Around the world";1997;"VIRGIN";1708099473;1708099711;;"https://open.spotify.com/track/1pKYYY0dkg23sQQXi0Q5zN";"https://music.apple.com/fr/album/around-the-world/696884422?i=696886431&uo=4"
+"Maxence Cyrin";"Novo piano";"Around the world";2010;"KWAIDAN RECO";1708099710;1708100030;"https://www.deezer.com/track/16711120";"https://open.spotify.com/track/3C3LzckLWjqYk4W7HsHwpn";
+"Anne Sofie Von Otter";"Douce France / Anne Sofie von Otter interprète des mélodies et des chansons";"Danse macabre - arrangement pour mezzo-soprano alto et piano";2013;"Naïve";1708099912;1708100036;;;
+"Sampha";"Lahai";"Can't go back";2023;"YOUNG / BEGGARS";1708100035;1708100253;;"https://open.spotify.com/track/3AMkB7lBciaMh66dCx1nqL";"https://music.apple.com/fr/album/cant-go-back/1702662891?i=1702663849&uo=4"
+"Doris Troy";"Doris Troy";"Get Back";1970;"EMI";1708100251;1708100435;;;"https://music.apple.com/fr/album/get-back/771772863?i=771775457&uo=4"
+"Shay Lia";"Facets";"Solo";2023;"AUTOPRODUCTRION";1708100435;1708100718;;"https://open.spotify.com/track/5UXbiwymPFSqbVhDefIeB7";
+"Gitkin";"Safe passage";"Fools gold";2020;"WONDERWHEEL RECORDINGS";1708100612;1708100783;;"https://open.spotify.com/track/1rItU1IQxBzsF1MKQspduG";"https://music.apple.com/fr/album/fools-gold/1531087679?i=1531087778&uo=4"
+"Timber Timbre";"Creep on creepin'on";"Lonesome hunter";2011;"FULL TIME HOBBY";1708100778;1708101056;"https://www.deezer.com/track/2096320877";"https://open.spotify.com/track/2duY09oVvXOhqnr95LfTzf";"https://music.apple.com/fr/album/lonesome-hunter/1663071851?i=1663072707&uo=4"
+"Roy Orbison";"The monument singles collection (1960 - 1964)";"Working for the man";1962;"SONY";1708101053;1708101197;"https://www.deezer.com/track/7675282";"https://open.spotify.com/track/6sL8ZTRb7urOR8HzImD6my";"https://music.apple.com/fr/album/working-for-the-man/431339392?i=431339404&uo=4"
+"Jacques Helian Et Son Orchestre";"Lolo Lola";"Seize tonnes (feat. Jean-Louis Tristan)";1956;"PATHE";1708101196;1708101356;;;"https://music.apple.com/fr/album/seize-tonnes-feat-jean-louis-tristan/920837688?i=920837698&uo=4"
+"Sven Wunder";"Late again";"Take a break";2023;"PIANO PIANO";1708101354;1708101529;"https://www.deezer.com/track/2435667685";"https://open.spotify.com/track/0a3OncBmvyH15J54mxPgpz";"https://music.apple.com/fr/album/take-a-break/1695571905?i=1695572261&uo=4"
+"Natascha Rogers";"Onaida";"O baba";2024;"NO FORMAT";1708101529;1708101730;"https://www.deezer.com/track/2580873772";"https://open.spotify.com/track/1vvEMBM9iylFAL0Y3R2YTe";
+"Tok Tok Tok";"50 ways to leave your lover";"I wish";1999;"EINSTEIN";1708101729;1708101999;;;
+"Yan Wagner";"This never wagner";"Grandes";2017;"HER MAJESTY'S SHIP";1708101994;1708102207;;;
+"Janko Nilovic & The Soul Surfers";"Maze of sounds";"Prelude";2020;"BROC RECORDZ";1708102205;1708102373;;;
+"Randy Newman";"12 songs";"Yellow man";1970;"REPRISE";1708102372;1708102510;;"https://open.spotify.com/track/7AXz0U2aY2AZFHopZxbHaB";"https://music.apple.com/fr/album/yellow-man/730459075?i=730459084&uo=4"
+"Sophie Deschaumes";"La belle et le clochard";"Chanson des siamois";1953;"MUSICCLUB";1708102508;1708102621;;;
+"Chai";"Chai";"Matcha";2023;"SUB POP";1708102620;1708102825;"https://www.deezer.com/track/2286166017";"https://open.spotify.com/track/5sw4HTRNBHHTw074vXjRFf";"https://music.apple.com/fr/album/matcha/1688527410?i=1688527412&uo=4"
+"Jane Weaver";"Perfect storm";"Perfect storm";2024;"FIRE RECORDS";1708102824;1708103016;;"https://open.spotify.com/track/6LuLURs2JFf89Rms2EhoXy";
+"Aronas";"Culture tunnels";"Happy song";2005;"EXCLAIM";1708103015;1708103182;;;"https://music.apple.com/fr/album/happy-song/202095412?i=202095749&uo=4"
+"Nino Moschella";"Boom shadow";"We fight";2009;"UBIQUITY";1708103180;1708103479;;"https://open.spotify.com/track/1pBmCb6vcKNiULB7tQVXLg";"https://music.apple.com/fr/album/we-fight/1518330245?i=1518330584&uo=4"
+"Dennis Brown";"The One You Left Behind";"Stop the fussing & fighting";1977;"LIZARD SHAKEDOWN";1708103474;1708103729;;;
+"S.O.U.L.";"Groove Revolution";"Love peace and power";1972;"WAGRAM MUSIC (DISTRIBUTEUR)";1708103728;1708103976;;;
+"Barbagallo";"La paix";"La paix";2019;"LA SOUTERRAINE";1708103954;1708104193;;"https://open.spotify.com/track/4MaUSYEyzDDGbkQycJeeZa";"https://music.apple.com/fr/album/la-paix/1471038251?i=1471038252&uo=4"
+"Donovan";"Mellow yellow";"Mellow yellow";1966;"PEER MUSIC";1708104186;1708104410;"https://www.deezer.com/track/14926547";;"https://music.apple.com/fr/album/mellow-yellow-single-version/516667182?i=516667496&uo=4"
+"Isaac Delusion";"Lost and found";"50 50";2024;"DELUSION RECORDS / ALLO FLORIDE UNDER EXCLUSIVE LICENSE TO 3EME BUREAU / WAGRAM MUSIC";1708104408;1708104607;"https://www.deezer.com/track/2537598511";"https://open.spotify.com/track/4Pca3D30BC6r7a8GwrZdb9";"https://music.apple.com/fr/album/50-50/1716058914?i=1716059432&uo=4"
+"Joshua Bell";"Joshua Bell : The classical collection / CD 1";"Girl crazy : I got rhythm - arrangement pour violon et orchestre";1998;"SONY CLASSICAL";1708104605;1708104863;;;
+"Imam Baildi";"Imam Baildi";"Poso lypamai";2007;"EMI";1708104861;1708105118;;;
+"Anderson .Paak";"Tints";"Tints (feat. Kendrick Lamar)";2018;"WEA";1708105117;1708105382;"https://www.deezer.com/track/563958372";"https://open.spotify.com/track/7c3SbTuufigBWURcICnAWy";"https://music.apple.com/fr/album/tints-feat-kendrick-lamar/1437534355?i=1437534363&uo=4"
+"Dinah Washington & Brook Benton";"It's magic/Greatest hits";"Baby you've got what it takes";1959;"POLYGRAM";1708105381;1708105546;;;
+"Colter Wall";"Little songs";"Standing here";2023;"BLACK HOLE RECORDINGS";1708105545;1708105704;"https://www.deezer.com/track/2365148605";"https://open.spotify.com/track/6iVeuRxhoCrgSdnhkpM0tN";"https://music.apple.com/fr/album/standing-here/1683648719?i=1683649129&uo=4"
+"Link Wray";"3-Track Shack";"Alabama electric circus";1973;"ACE RECORDS";1708105703;1708105821;;;
+"Juniore";"Un, deux , trois";"Soudain";2020;"A+LSO/SONY";1708105819;1708106037;;"https://open.spotify.com/track/2W6TZyXn5Bln9ZEOTtziNo";"https://music.apple.com/fr/album/soudain/1491391263?i=1491391264&uo=4"
+"Automatic";"Excess";"Venus hour";2022;"STONES THROW RECORDS";1708106034;1708106202;"https://www.deezer.com/track/1634562362";"https://open.spotify.com/track/7g3pzWgOF5SzfGSaxAslfN";"https://music.apple.com/fr/album/venus-hour/1607040683?i=1607041154&uo=4"
+"Dogs";"BOF TV / Vernon Subutex";"Never come back";1983;"WARNER MUSIC";1708106201;1708106398;;;
+"James Brown";"Best of live at the Apollo : 50th anniversary";"There was a time";1963;"UNIVERSAL MUSIC (LABEL & DISTRIBUTEUR)";1708106568;1708106895;;;
+"FRANCO";;"Cherie bondowe PART 1";2010;;1708106893;1708107115;;;
+"Baden Powell";"O universo musical de Baden Powell";"Berimbau";1963;"HARMONIA";1708107114;1708107274;;;
+"Agostinho Dos Santos";"Les plus belles chansons de Antonio Carlos Jobim et Vinicius de Moraes";"A felicidade (du film Orfeu negro)";1991;"RGE";1708107272;1708107452;;;
+"Jimi Hendrix";"Electric ladyland";"All along the watchtower";1968;"POLYGRAM";1708107446;1708107686;"https://www.deezer.com/track/4952889";"https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f";"https://music.apple.com/fr/album/all-along-the-watchtower/344803075?i=344803162&uo=4"
+"George Benson";"Body talk";"Body talk";1973;"COLUMBIA";1708107684;1708108184;;"https://open.spotify.com/track/2Tg41ss3LvIkc6AFdolKjA";
+"Stevie Wonder";"Talking book";"Superstition";1972;"MOTOWN";1708108051;1708108312;;"https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ";
+"Fela Kuti";"Lady/Shakara";"Lady";1974;"PATHE MARCONI";1708108308;1708108675;;;
+"Celia Cruz";"Celia & Johnny";"El tumbao y Celia";1974;"FANIA";1708108674;1708108963;;"https://open.spotify.com/track/793Hj5GGE1ANxLNO8yt24R";
+"Weather Report";"Mysterious traveller/Black market";"Nubian sundance";1974;"COLUMBIA";1708108960;1708109592;;;"https://music.apple.com/fr/album/nubian-sundance/188263606?i=188263641&uo=4"
+"HERBIE HANCOCK";;"PALM GREASE edit";1974;;1708109345;1708109662;;;
+"Jimmy Smith";"The cat";"The cat";1964;"VERVE";1708109663;1708109866;;;"https://music.apple.com/fr/album/the-cat/1442447502?i=1442447730&uo=4"
+"Dr Lonnie Smith";"Move Your Hand";"Layin' in the cut";1969;"BLUE NOTE";1708109861;1708110469;;;
+"Lalo Schifrin";"Mannix soundtrack";"Mannix title track (long version)";1967;"ALEPH RECORD";1708110118;1708110373;;;
+"Tommy Dorsey & His Orchestra";"Jazz, lindy hop, boogie / Années 40-50";"Well git it";1942;"FREMEAUX ET ASSOCIES";1708110409;1708110658;;;
+"Yung Joo";"Hip hop and jazz mixed up / Vol.2 (cd promo)";"Charleston";2011;"MUSICAST";1708110591;1708110804;;;
+"Kool & The Gang";"Wild and peaceful";"Jungle boogie";1973;"DE LITE";1708110803;1708110986;;"https://open.spotify.com/track/3K0SJUQNbOkUprTFcwwAKN";"https://music.apple.com/fr/album/jungle-boogie/1431061887?i=1431062035&uo=4"
+"King Gizzard & The Lizard Wizard";"Fishing for fishies";"Plastic boogie";2019;"FLIGHTLESS RECORDS";1708110988;1708111171;;"https://open.spotify.com/track/32gxALA5ZZdh6XVKmf67eH";"https://music.apple.com/fr/album/plastic-boogie/1649052085?i=1649052094&uo=4"
+"Bixiga 70";"Daora : Underground sounds of urban Brasil - Hip-Hop - Beats - Afro & Dub";"Balboa da Silva";;"MAIS UM DISCOS";1708111170;1708111426;;"https://open.spotify.com/track/4Rw8BPtgkKp7EAxCWloItH";"https://music.apple.com/fr/album/balboa-da-silva/1677852025?i=1677852043&uo=4"
+"Mc Batata";"Slum Dunk Presents Funk Carioca";"Feira de acari";2004;"MR BONGO";1708111424;1708111691;;;
+"Kaoma";"Lambada";"Lambada";1989;"CBS";1708111690;1708111894;;;"https://music.apple.com/fr/album/lambada/267982252?i=267982253&uo=4"
+"Kassav'";"Lagué moin";"Lagué moin";1980;"CELLULOID";1708111892;1708112125;;;
+"Joe Yorke & The Co-Operators";"A distant beat";"No good for me";2023;"WAGGLE DANCE RECORDS";1708112117;1708112302;;;"https://music.apple.com/fr/album/no-good-for-me/1681380793?i=1681380795&uo=4"
+"Parental & Figub Brazlevic";"Correspondance";"Reconciliation";2023;"KREKPEK RECORDS";1708112298;1708112458;;;
+"William Onyeabor";"Hot Chip Vs William Onyeabor";"Atomic Bomb (Edit)";2014;"LUAKA BOP";1708112408;1708112688;;;
+"Into New Dimensions";"Skyway Soul : Gary, Indiana";"Everybody likes to do it";1981;;1708112683;1708113014;;"https://open.spotify.com/track/3MUjKeWDDfIyIYy5El5yOv";"https://music.apple.com/fr/album/everybody-likes-to-do-it/1652100630?i=1652100632&uo=4"
+"Rahmlee";"Ultra high frequencies : The Chicago party";"Think";1981;"NUMERO GROUP";1708113014;1708113256;"https://www.deezer.com/track/94964936";;
+"Mykki Blanco";"Postcards from Italia";"Magic on my back";2023;"TRANSGRESSIVE";1708113255;1708113420;;"https://open.spotify.com/track/3NUjpb39XAnAYiknfLtr9C";
+"Three Suns";"The incredibly strange music box";"Tequila";1961;"RIGHTEOUS";1708113417;1708113541;;;
+"Peggy Lee";"Latin ala Lee / Olé ala Lee!";"Dance only with me";1960;"CAPITOL";1708113539;1708113684;;"https://open.spotify.com/track/029SL4ll0Io4g9j4EVvAHp";"https://music.apple.com/fr/album/dance-only-with-me/716755287?i=716755421&uo=4"
+"Brigitte Bardot";"Brigitte Bardot";"Je danse donc je suis";1964;"POLYGRAM";1708113682;1708113794;;;"https://music.apple.com/fr/album/je-danse-donc-je-suis/1443901686?i=1443901832&uo=4"
+"Ali";"Dance, Habibi";"Dance, Habibi";2021;"ALI RADIO";1708113794;1708113963;;"https://open.spotify.com/track/1YxpOLAnktXTt8QRqNrAmN";
+"The Clash";"Super black market clash";"Mustapha dance";1982;"COLUMBIA";1708113960;1708114223;;;
+"ESG";"A south Bronx story";"Dance";1983;"UNIVERSAL";1708114216;1708114485;;"https://open.spotify.com/track/0iD94fatV4gLMmOQhNTQx6";"https://music.apple.com/fr/album/dance/1668437008?i=1668437351&uo=4"
+"Michael Jackson";"Thriller";"Billie Jean";1982;"EPIC";1708114484;1708114774;;"https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj";"https://music.apple.com/fr/album/billie-jean-single-version/159292399?i=159293848&uo=4"
+"Dandara";"Dandara & Chakib";"Muri";2024;"WONDERWHEEL RECORDINGS";1708114772;1708114966;;"https://open.spotify.com/track/6r56Cq2ZDl6aTJixQXQRtl";
+"Auntie Flo";"Radio highlife";"Lights in the northern sky";2018;"BROWNSWOOD RECORDINGS";1708114965;1708115107;;"https://open.spotify.com/track/7HhBXRk6kgGuojbPDgFouu";"https://music.apple.com/fr/album/lights-in-the-northern-sky/1561213330?i=1561213351&uo=4"
+"The Kinks";"Kinda Kinks";"All day and all of the night";1964;"RHINO RECORDS";1708115104;1708115245;;"https://open.spotify.com/track/1mfV2kv9RwFKVI8kEQlmOJ";"https://music.apple.com/fr/album/all-day-and-all-of-the-night/1143692008?i=1143692054&uo=4"
+"Blessed Virgins";"Frenchy but rock";"Jean Pascal Et La France";1982;"COLUMBIA / SONY MUSIC/ COLLECTION OR";1708115243;1708115370;;;
+"Astral Bakers";"The whole story";"The whole story";2024;"SAGE MUSIC";1708115368;1708115519;;"https://open.spotify.com/track/32nJA8poeqnOofwpmdnl5k";
+"Afrika Bambaataa & The Soulsonic Force";"Planet Rock";"Planet rock";1986;"DBK WORKS";1708115518;1708115969;;;"https://music.apple.com/fr/album/planet-rock-the-galaxy-mix/1616176014?i=1616176023&uo=4"
+"Tyrone Brunson";"Sticky situation";"The smurf (single version)";1983;"FUNKY TOWN GROOVES";1708115962;1708116179;"https://www.deezer.com/track/1016740912";;"https://music.apple.com/fr/album/the-smurf-single-version/1522708943?i=1522708951&uo=4"
+"Prince";"Lovesexy";"Dance on";1988;"PAISLEY PARK";1708116176;1708116399;;"https://open.spotify.com/track/7FjudlYfkAvMoj6jETKlHz";"https://music.apple.com/fr/album/dance-on/1608900425?i=1608900735&uo=4"
+"Janelle Monae";"Make me feel";"Make me feel";2018;"WEA";1708116397;1708116591;;"https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH";"https://music.apple.com/fr/album/make-me-feel/1350021308?i=1350021467&uo=4"
+"Laurent Bardainne & Tigre D’eau Douce";"Eden Beach Club";"Eden";2024;;1708116592;1708116879;;;"https://music.apple.com/fr/album/eden/1729904279?i=1729904625&uo=4"
+"Teme Tan";"Quand il est seul";"Un grand plat de riz";2023;"PIAS";1708116875;1708117082;"https://www.deezer.com/track/2387564415";"https://open.spotify.com/track/5vkgULcjh4F3MxtR67VJyz";
+"Ata Kak";"Obaa sima";"Obaa sima";2014;"AWESOME TAPES FROM AFRICA";1708117078;1708117415;;;
+"Santrofi-Ansa";"Essiebons special 1973-1984 / Ghana music power house";"Shakabula";;"ANALOG AFRICA";1708117408;1708117661;;"https://open.spotify.com/track/1HXOO1bptH0HNM9viFFQFL";"https://music.apple.com/fr/album/shakabula/1609633132?i=1609633136&uo=4"
+"Inxs";"Kick";"Need you tonight";1987;"UNIVERSAL MUSIC (LABEL & DISTRIBUTEUR)";1708117659;1708117858;"https://www.deezer.com/track/11282931";"https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs";"https://music.apple.com/fr/album/need-you-tonight/1440751235?i=1440751577&uo=4"
+"Jurassic 5";"Power in numbers";"A day at the races";2002;"INTERSCOPE RECORDS";1708117840;1708118088;;"https://open.spotify.com/track/2QBlIsDMYoHcANWylV74Oj";
+"DJ Harrison";"Tales from the old dominion";"Back in the house";2021;"STONES THROW";1708118081;1708118202;;"https://open.spotify.com/track/36SQiajMTgs3GE7mxErKZY";"https://music.apple.com/fr/album/back-in-the-house/1587078581?i=1587078594&uo=4"
+"Brick";"Summer heat / after 5";"Free dancer";1982;"FUNKYTOWNGROOVES";1708118173;1708118576;;"https://open.spotify.com/track/4Difo8JIqhrgwSsqBA8fB5";
+"Bibi Flash";"Histoire d'1 soir (bye bye les galères)";"Histoire d'1 soir (bye bye les galères)";1983;"BARBECUE";1708118569;1708118837;;;
+"Fabulous & Arabia";"Unlimited buffet";"Give me love tonight";2012;"JAKARTA RECORDS";1708118835;1708118990;;;
+"Ennio Morricone";"Morricone bossa";"Walzer bossa nova";1964;"AMARKORD";1708118989;1708119122;;;
+"Astrud Gilberto";"A certain smile a certain sadness";"Goodbye sadness (Tristeza)";1966;"VERVE";1708119121;1708119338;;;
+"Percy Faith & His Orchestra";"Un coin qui me rappelle";"O pato";1965;"CBS";1708119325;1708119467;;;
+"Mathieu Boogaerts";"Super";"Ondule";1995;"REMARK";1708119465;1708119699;"https://www.deezer.com/track/1085714";;
+"Ikebe Shakedown";"Colemine Records Presents : Brighter Days Ahead";"Adonai";2021;"COLEMINE RECORDS";1708119697;1708119868;;"https://open.spotify.com/track/32zUvnJ3BOWJaH1bTu9E9N";
+"James White & The Blacks";"Disco not disco";"Contort yourself (August Darnell remix)";1979;"STRUT";1708119865;1708120236;;;"https://music.apple.com/fr/album/contort-yourself-august-darnell-remix/258293474?i=258293481&uo=4"
+"LCD Soundsystem";"Sound of silver";"Someone Great";2007;"EMI";1708120232;1708120611;;"https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW";"https://music.apple.com/fr/album/someone-great/742432549?i=742434939&uo=4"
+"Ebo Taylor";"Life stories";"Peace on earth";1978;"STRUT";1708120609;1708120805;;;"https://music.apple.com/fr/album/peace-on-earth/1687167972?i=1687168467&uo=4"
+"Marcos Valle";"Marcos Valle";"Fogo do sol";1983;"SOM LIVRE";1708120811;1708121036;"https://www.deezer.com/track/11085337";"https://open.spotify.com/track/3p9UNNwbezi22pNknFKQMK";"https://music.apple.com/fr/album/fogo-do-sol/379535167?i=379535169&uo=4"
+"Marine Quemere";"Les vagues";"Les vagues";2023;"A L’OUEST RECORDS";1708121031;1708121248;"https://www.deezer.com/track/2482452871";"https://open.spotify.com/track/01DQQiW7U6QSYWQiT5YOAD";"https://music.apple.com/fr/album/les-vagues/1710222461?i=1710222803&uo=4"
+"The Nits";"Wool";"Frog";2000;"PIAS";1708121244;1708121480;;;
+"Henry Mancini";"Martinis with Mancini";"Lightly latin";1960;"BMG/RCA";1708121479;1708121653;"https://www.deezer.com/track/17012892";"https://open.spotify.com/track/3Xpn42IslX9J2mGs4X9bWW";
+"Bettye Swann";"Bettye Swann";"Then you can tell me goodbye";1968;"HONEST JONS RECORDS";1708121652;1708121876;;;
+"Bonnie Prince Billy";"Keeping secrets will destroy you";"Good morning, Popocatépetl";2023;"DRAG CITY";1708121875;1708122027;;"https://open.spotify.com/track/6QU5gqZmTBtYPDfvDsD9iC";
+"Roland Jaffe";"Edouard Grieg : Oeuvres pour violoncelle et piano";"Poésie en Si Maj op 18 n°5";2007;"CAPRICCIO";1708122026;1708122168;;;
+"Harry Nilsson";"The RCA albums collection : Son of Schmilsson / CD 8";"The lottery song";1972;"RCA";1708122167;1708122311;;"https://open.spotify.com/track/611jHMpEEeXLn8iOSccZ9S";
+"Robbi Curtice";"Nothing to write home about";"Pick up the phone";2023;"FREAKSVILLE";1708122304;1708122516;;"https://open.spotify.com/track/7ykQ0XkKmGFWZBZuI8FHiF";"https://music.apple.com/fr/album/pick-up-the-phone/1676064196?i=1676064220&uo=4"
+"Corduroy";"Return of the fabric four";"Blackmail";2018;"ACID JAZZ";1708122512;1708122646;;"https://open.spotify.com/track/0CjE8Jqli3snNKjH1CGnfH";"https://music.apple.com/fr/album/blackmail/1435901981?i=1435901986&uo=4"
+"Onipa";"Off the grid";"Menua (feat. Lamisi)";2023;"REAL WORLD RECORDS";1708122645;1708122844;;;
+"Kiledjian";"The otium mixtape";"Nioloti (La Nuit) (feat. Cindy Pooch)";2024;"UNDERDOG RECORDS";1708122842;1708123055;;;
+"Hermanos Gutierrez";"El bueno y el malo";"Cielo grande";2022;"EASY EYE SOUND / CONCORD";1708123054;1708123228;;"https://open.spotify.com/track/1WHfsDbIOETyT9zCDlQ1AL";
+"Billy J Kramer";"Compilation / Mersey beat";"Bad to me";1964;"PARLOPHONE";1708123229;1708123366;;;
+"The Harlem Gospel Travelers";"Look up!";"Look up!";2022;"COLEMINE RECORDS";1708123366;1708123518;;"https://open.spotify.com/track/7i3BlA7xWpXAOO09YNn3w2";"https://music.apple.com/fr/album/look-up/1624685866?i=1624685874&uo=4"
+"Willie Bobo";"Bobo motion";"Evil Ways";1967;"VERVE";1708123516;1708123674;"https://www.deezer.com/track/1578366";;"https://music.apple.com/fr/album/evil-ways/1444044066?i=1444045031&uo=4"
+"Jeanne Moreau";"Le tourbillon";"Rossignol";1968;"POLYGRAM";1708123671;1708123770;;;
+"Flaer";"Preludes";"Follow";2023;"ODDA RECORDINGS";1708123762;1708123997;;"https://open.spotify.com/track/3evf6Nesw5xBlvpNlx2ITM";
+"Tracy Chapman";"Collection";"Talkin' bout a revolution";1988;"ELEKTRA";1708123995;1708124155;"https://www.deezer.com/track/2271562";"https://open.spotify.com/track/0YMFcrMtBowDdD5bPz0cgy";"https://music.apple.com/fr/album/talkin-bout-a-revolution/79565550?i=79565502&uo=4"
+"Dick Nash";"Henry Mancini :The cop show themes";"Hawaii police d' état (Hawaii five o (Serie TV))";1999;"RCA";1708124174;1708124307;;;
+"Lee Hazlewood";"Bof / Panique à Hollywood";"Hey cowboy";1970;"MILAN";1708124306;1708124496;;;
+"The Beatles";"Abbey road";"Here comes the sun";1969;"EMI";1708124496;1708124680;;;
+"The Congos";"Image of Africa";"Food for the rainy day";1979;"YOUNG TREE RECORDS";1708124679;1708124951;;;
+"Scott Bradlee'S Postmodern Jukebox";"The Essentials";"No diggity (Feat. Ariana Savalas)";2016;"MUDHUTDIGITAL";1708124949;1708125145;;;
+"Renee Olstead";"Sleepwalk";"Sleepwalk";2013;"RENEE LLC";1708125135;1708125284;"https://www.deezer.com/track/71515420";"https://open.spotify.com/track/2LAKLX6o1JzQJHUp8NIhLA";"https://music.apple.com/fr/album/sleepwalk/723181311?i=723181363&uo=4"
+"Charley Crockett";"In the Night";"I am not afraid";2016;"SON OF DAVY";1708125285;1708125448;"https://www.deezer.com/track/484438342";"https://open.spotify.com/track/5pD6DyYeglUby2x5CXrqfA";"https://music.apple.com/fr/album/i-am-not-afraid/1370558895?i=1370559278&uo=4"
+"Georges Brassens";"La mauvaise reputation";"Le nombril des femmes d'agents";;"PH";1708125447;1708125590;;"https://open.spotify.com/track/7ntrxzCNvmOmbO2k2AhHCA";"https://music.apple.com/fr/album/le-nombril-des-femmes-dagents/1400927045?i=1400928023&uo=4"
+"Kham Meslien";"Fantômes... Futurs";"Kar kar kar";2022;"HEAVENLY SWEETNESS";1708125590;1708125765;"https://www.deezer.com/track/1803222467";"https://open.spotify.com/track/7j8cqSv1KQF8UXmjU5al5G";"https://music.apple.com/fr/album/kar-kar-kar/1631593775?i=1631594712&uo=4"
+"Aziza Brahim";"Mawja";"Thajliba";2024;"GLITTERBEAT RECORDS";1708125761;1708125965;"https://www.deezer.com/track/2547834942";"https://open.spotify.com/track/5A5GeLoE9Td77MI0t2sMvB";
+"Gecko Turner";"Somebody from badajoz";"End of the world";2023;"LOVEMONK RECORDS";1708125963;1708126226;;"https://open.spotify.com/track/1Q4LD5uagwbJeSlkrNPRjZ";"https://music.apple.com/fr/album/end-of-the-world/1669656631?i=1669657434&uo=4"
+"Yin Yin";"Mount Matsu";"The year of the tiger";2024;"GLITTERBEAT";1708126199;1708126428;"https://www.deezer.com/track/2531107751";"https://open.spotify.com/track/5N9hOtWN8peIzPguGVe4p5";
+"Arctic Monkeys";"Whatever people say I am, that's what i'm not";"Mardy bum";2006;"DOMINO";1708126427;1708126600;;"https://open.spotify.com/track/2fyIS6GXMgUcSv4oejx63f";
+"The Dandy Warhols";"Thirteen tales from urban bohemia";"Get off";2000;"CAPITOL";1708126598;1708126789;"https://www.deezer.com/track/2125815937";"https://open.spotify.com/track/3vNuiCB9OirYFeO79MNQqZ";
+"Mano Negra";"Patchanka";"Mala vida";1988;"VIRGIN";1708126788;1708126961;;"https://open.spotify.com/track/0UY0JLj9kxOlgF6FHogCmX";"https://music.apple.com/fr/album/mala-vida/1244798324?i=1244799372&uo=4"
+"Tentative";"Statue moi";"J'ai plein de trucs à faire";2023;"KWAIDAN";1708126959;1708127092;;"https://open.spotify.com/track/3oQL95uauGBDtrb4Vszlc1";"https://music.apple.com/fr/album/jai-plein-de-trucs-%C3%A0-faire/1680549572?i=1680549576&uo=4"
+"Tnght";"II";"First body";2019;"WARP RECORDS";1708127089;1708127268;;"https://open.spotify.com/track/2sHBqFK61DrQyz0S5PyTL8";"https://music.apple.com/fr/album/first-body/1482424514?i=1482424517&uo=4"
+"Jungle";"Volcano";"I've been in love";2023;"CAIOLA RECORDS";1708127267;1708127436;;"https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo";
+"Rita Coolidge";"Rita coolidge - classics - volume 5";"You - 1978";1978;"A&M RECORDS";1708127433;1708127622;;;
+"Gavin Bryars";"Season of mists";"Back from london";2008;"GB RECORDS";1708127633;1708127790;;;
+"BadBadNotGood";"IV";"In your eyes (feat. Charlotte Day Wilson)";2016;"INNOVATIVE LEISURE";1708127788;1708128032;"https://www.deezer.com/track/125534528";;
+"Mayer Hawthorne";"A strange arrangement";"Just ain't gonna work out";2009;"STONES THROW RECORDS";1708128029;1708128176;;"https://open.spotify.com/track/6Tdkn9doJ1eiWLH2njMN5X";
+"Al Green";"Call me";"Here I am";1973;"THE RIGHT";1708128175;1708128424;;;
+"Tommy Mac Cook & The Supersonics";"Soul rock steady";"The Shadow Of Your Smile";;"TROJAN RECORDS / SANCTUARY RECORDS";1708128424;1708128624;;;
+"Cass Elliot";"Mama's big ones";"A song that never comes (mono single mix)";1973;"GEFFEN";1708128624;1708128764;;;
+"Manu Galure";"Vertumne";"Je ferais la chanson qui n'a rien a voir";2021;"AUTO PRODUCTION";1708128761;1708129138;;"https://open.spotify.com/track/5NZqbxTZRITq5sPBKf5I5M";
+"Bill Ryder-Jones";"Lechyd da";"How beautiful I am";2024;"DOMINO";1708129132;1708129383;;"https://open.spotify.com/track/29wvuq2uL6sbOSx7OoK9PY";
+"Jacob Olie Trio";"Travellers";"Trio avec piano nº4 en mi min op 90 B 166 (Dumky) : 1. Lento maestoso";2023;"ETCETERA";1708129384;1708129631;;;
+"Veritable Orchestre Argentin Tano Genaro";"Le tango à Paris (1907-1941) CD 1";"Clavel del aire";1931;"FREMEAUX ET ASSOCIES";1708129629;1708129798;;;
+"Rhoda Dakar";"Version girl";"Walking after midnight";2023;"SUNDAY BEST RECORDINGS";1708129797;1708129980;;"https://open.spotify.com/track/2QXhrimNBi6h3GubXmGjvh";
+"Louis Armstrong";"Louis and the good book";"On my way (got on my travelin' shoes)";1958;"VERVE";1708129978;1708130159;;;
+"Chinese Man";"Electro swing fever / Vol. 3";"Artichaut";2014;"WAGRAM MUSIC";1708130158;1708130421;"https://www.deezer.com/track/313644";;
+"Jive Me";"Jive me";"Crown";2019;"UNISON MUSIC";1708130419;1708130608;"https://www.deezer.com/track/662605242";"https://open.spotify.com/track/4uwYSqPjb46MPPIIKrn2wU";
+"Disclosure";"You & me";"You & me (Flume remix) (feat. Eliza Doolittle)";2014;"UNIVERSAL ISLAND";1708130606;1708130885;;;
+"Jimmy Whoo";"To the moon";"Terre étrangère";2023;"ENTREPRISE";1708130882;1708131012;"https://www.deezer.com/track/2502800051";"https://open.spotify.com/track/6HQN7nk2bjnivEZRp835YX";
+"Feist";"Let it die";"Leisure Suite";2004;"POLYDOR";1708131010;1708131258;"https://www.deezer.com/track/2431289";"https://open.spotify.com/track/7IEor9fMKyXvn7fj6kKPeR";"https://music.apple.com/fr/album/leisure-suite/1443379135?i=1443379604&uo=4"
+"Armando Trovajoli";"Armando Trovajoli in lounge";"L'arcidiavolo : L'Arcidiavolo (Titoli)";1966;"VERITA NOTE";1708131266;1708131426;;;
+"The Who";"The who hits 50";"I can see for miles";1967;"POLYDOR";1708131425;1708131675;;;
+"Edwin Starr";"Motown greatest hits";"25 miles";1969;"MOTOWN";1708131674;1708131868;;;
+"Jamila Woods";"Legacy ! legacy !";"Miles";2019;"JAGJAGUWAR";1708131865;1708132055;"https://www.deezer.com/track/650851612";"https://open.spotify.com/track/4XZsaIbTFY1tEUWF3CxhJC";"https://music.apple.com/fr/album/miles/1450438412?i=1450438421&uo=4"
+"Ivan Mamao Conti";"Poison fruit";"Ninho";2019;"FAR OUT RECORDINGS";1708132058;1708132258;;;
+"Keyon Harrold";"Foreverland";"Beautiful day (feat. PJ Morton)";2024;"CONCORD JAZZ";1708132258;1708132461;;;"https://music.apple.com/fr/album/beautiful-day-feat-pj-morton/1703096626?i=1703096647&uo=4"
+"Donna Blue";"Fantasy girl";"Fantasy girl";2023;"SNOWSTAR RECORDS";1708132461;1708132675;"https://www.deezer.com/track/2633554232";"https://open.spotify.com/track/3sRmrWzNzGVRustvTQxFbG";"https://music.apple.com/fr/album/fantasy-girl/1727743453?i=1727743757&uo=4"
+"Johnny Cash";"20 original albums : The fabulous / CD 1";"Don't Take Your Guns To Town";1959;"SONY MUSIC";1708132672;1708132848;"https://www.deezer.com/track/2645324342";;
+"Ry Cooder";"Bof : Performance";"Powis square";1970;"WARNER BROS";1708132849;1708132994;;;
+"Steve & Teresa";"Aloha got soul";"Kaho'olawe song";1983;"STRUT RECORDS";1708132994;1708133185;;;
+"The Loire Valley Calypsos";"Chalonnes island";"Take her to Jamaica";2017;"MAAULA RECORDS";1708133183;1708133366;;"https://open.spotify.com/track/15K9zF9QG6zKNHiojCQK1R";
+"Avije";"Black jungle (Dub Cavern mix)";"Black jungle (Dub Cavern mix)";2023;"AUTOPRODUCTION";1708133363;1708133584;;;
+"Koralle";"New Levels / Chartreuse";"New levels (feat. Illa J)";2024;"FOUR FLIES RECORDS";1708133587;1708133747;;;"https://music.apple.com/fr/album/new-levels-feat-illa-j/1721492838?i=1721492839&uo=4"
+"Zero 7";"Simple things";"End theme";2001;;1708133747;1708133963;;"https://open.spotify.com/track/3PLOqzqN6hKdxyUZ5Yv4va";"https://music.apple.com/fr/album/end-theme/1326273139?i=1326273888&uo=4"
+"Topi Lehtipuu";"Vivaldi : Airs pour ténor";"Tito Manlio RV 738 : La fatal sentenza (Acte II Sc 13)  Air de Tito Manlio";2010;"NAIVE RECORD";1708133963;1708134113;;;
+"Edith Piaf";"25eme anniversaire / Vol. 1";"Padam ... padam";1951;"EMI";1708134113;1708134311;;;
+"Unkle Ho";"Circus maximus";"Hiroshi waltz";2007;"ELEFANT TRAK";1708134311;1708134518;;"https://open.spotify.com/track/1fX05hJGeeF8OWC7Q1sSqc";
+"The Lollipops";"Harbour boat trips / Vol. 2";"Naked when you come";2018;"HFN MUSIC";1708134518;1708134672;;;
+"Tommy Guerrero";"Amber of memory";"Through the mosaic";2023;"TOO GOOD";1708134670;1708134924;"https://www.deezer.com/track/2394013465";"https://open.spotify.com/track/1mPrBTJPCFR2ZvABBUa19C";
+"Any Other";"Stillness, stop : You have a right to remember";"Second Thought";2024;"42 RECORDS";1708134931;1708135119;;"https://open.spotify.com/track/5ialT1lLAeLNKTdmlRzWJG";
+"Diepkloof United Voice";"Who knows";"Who knows";2023;"OSTINATO RECORDS";1708135119;1708135351;;"https://open.spotify.com/track/1nMqRnIHjL1nWnaawHV8iT";
+"The Staple Singers";"Faith & Grace : A Family Journey 1953-1976";"Wish I had answered (Live at newport)";1964;"CONCORD MUSIC GROUP";1708135351;1708135515;;;
+"Little Sonny";"Jazz dance classics / Vol. 4";"Memphis b.k.";1971;"LUV N HAIGHT";1708135507;1708135718;;;
+"Cortex";"Pourquoi";"Le visionnaire";1978;"TRAD VIBE RECORDS";1708135718;1708135969;;;
+"Tonnerre & Bikaye";"It's a bomb";"Bana disco";2023;"BORN BAD RECORDS";1708135962;1708136172;;;
+"The Seshen";"Right here (EP)";"Right here";2017;"TRU THOUGHTS";1708136171;1708136406;"https://www.deezer.com/track/128357381";"https://open.spotify.com/track/2UMipBQ1T2bt55DULQh7pM";
+"The Embassadors";"Nonplace Soundtracks / Scenes 1 - 25";"Scene 03";2015;"NONPLACE";1708136404;1708136490;;;
+"Prince Fatty";"Disco Deception";"Fever";2020;"EVERGREEN RECORDINGS";1708136492;1708136704;"https://www.deezer.com/track/1698846417";"https://open.spotify.com/track/4DbtRF5zaRqDYVqNTKU5oJ";
+"Jimi Hendrix";"Are you experienced";"Fire";1967;"MCA";1708136702;1708136863;;"https://open.spotify.com/track/5LI7PoHEolR8plrf3I16sq";
+"The Heavy";"Sons";"Burn bright";2019;"BMG";1708136855;1708137040;;"https://open.spotify.com/track/6OQdslw4GE9JOhs4PPymPl";"https://music.apple.com/fr/album/burn-bright/1450393695?i=1450393764&uo=4"
+"Nicolas Godin";"BOF / Fire of love";"Fire of love : Honeymoon";2023;"HOLLYWOOD RECORDS";1708137039;1708137195;;;
+"Shani Diluka";"Pulse";"Giorgio by Moroder - pour piano";2023;"WARNER CLASSICS";1708137197;1708137259;;;
+"Jerry Lee Lewis";"Classic Jerry Lee Lewis 2";"Drinkin' wine spo-dee-o-dee";1956;"RHINO";1708137257;1708137411;"https://www.deezer.com/track/14092200";;
+"Bastien Lallemant";"La maison haute";"Les fiançailles";2015;"L'AUTRE DISTRIBUTION";1708137409;1708137598;"https://www.deezer.com/track/94661696";"https://open.spotify.com/track/06KrTrEXFBWdZk6IZ4bYxT";"https://music.apple.com/fr/album/les-fian%C3%A7ailles/964500716?i=964501199&uo=4"
+"Natacha Atlas";"Myriad road";"Visions";2015;"DECCA RECORDS";1708137593;1708137794;;"https://open.spotify.com/track/6T32bxSHxRPdFnQL8SdqY9";
+"Sahra Halgan Trio";"Farannsiskiyo Somaliland";"Qaarami (traditional)";2015;"BUDA RECORDS";1708137793;1708137922;;;
+"Ahmed Malek";"Musiques originales de films";"La silence des cendres";1976;"HABIBI FUNK RECORDS";1708137921;1708138115;;;
+"Sinkane";"Everything is everything (feat. Tru Osborne)";"Everything is everything (feat. Tru Osborne)";2023;"CITY SLANG";1708138110;1708138445;;;"https://music.apple.com/fr/album/everything-is-everything-feat-tru-osborne/1721050815?i=1721051070&uo=4"
+"Katy Kirby";"Blue raspberry";"Drop dead";2024;"ANTI RECORDS";1708138463;1708138658;;"https://open.spotify.com/track/4WNetbhwSqOmlmEX6ym824";"https://music.apple.com/fr/album/drop-dead/1709513158?i=1709513172&uo=4"
+"Findlay";"The last of the 20th century girls (versions instrumentales)";"Life is but a dream (instrumental)";2022;"KARTEL MUSIC GROUP";1708138657;1708138848;;;
+"Moby";"Play";"Run on";1999;"MUTE";1708138846;1708139069;;;
+"Bill Landford & the Landfordaires";"The golden gate quartet & associates";"Run on for a long time";1949;"FREMEAUX ET ASSOCIES";1708139068;1708139224;;;
+"Robert Johnson";"The blues San Antonio Dallas  1936 - 1937";"They're red hot";1936;"FREMEAUX ET ASSOCIES";1708139223;1708139399;;"https://open.spotify.com/track/1HOUXSddx2SoBfsh8YqZDs";
+"Red Hot Chili Peppers";"Blood sugar sex magik";"They're red hot";1991;"WARNER";1708139398;1708140561;"https://www.deezer.com/track/725897";"https://open.spotify.com/track/1jQ0EZPAY3HpBRgUev6X1Q";"https://music.apple.com/fr/album/theyre-red-hot/945581828?i=945581847&uo=4"
+"The Cuphead Jazz Orchestra";"BOF / Cuphead (jeu vidéo)";"Funfair Fever";2019;"IAM8BIT";1708139456;1708139596;;;
+"Nina Simone";"Little girl blue";"My Baby Just Cares For Me";1957;"CHARLY";1708139601;1708139814;"https://www.deezer.com/track/2789439";;
+"Clair";"La maison magique";"Toutoutout (feat. Czerkinsky)";2023;"MAISON MAGIQUE";1708139813;1708139994;;;
+"Geyster";"California groove / Vol.4";"Everytime I'm in love (spring version)";2018;"WARNER MUSIC FRANCE";1708139991;1708140201;;;
+"Dexter Wansel";"Pulp Fusion 15";"Life on Mars?";1976;"HARMLESS RECORDINGS";1708140184;1708140533;;;
+"Badder Than Evil";"The sound spectrum";"Hot wheels";1973;;1708140529;1708140709;;;
+"Immy Owusu";"Lo-life !";"Appellation of elevation";2023;"HOPESTREET RECORDINGS";1708140721;1708140926;;"https://open.spotify.com/track/0wlR77UtNKAtVf5rW9acfa";
+"Quiet Dawn";"Simple";"Ur right";2023;"FIRST WORD";1708140924;1708141095;"https://www.deezer.com/track/2137995057";"https://open.spotify.com/track/0XXrpII6j6LAIMp7S2QpMB";"https://music.apple.com/fr/album/ur-right/1664043289?i=1664043301&uo=4"
+"Blackstreet & Dr. Dre";"L'année rap 1997";"No diggity";1996;;1708141088;1708141392;;;
+"A.S.O.";"A.s.o.";"My baby's got it out for me";2023;"LOW LYING RECORDS";1708141368;1708141593;;"https://open.spotify.com/track/5tS3Weg9TqWOx6Uv0K6MkL";
+"Morcheeba";"Who can you trust";"Post houmous";1996;"WEA";1708141582;1708141686;;"https://open.spotify.com/track/3TcPdLmJd4bkexN5QeZwre";
+"Mud";"Mud pack";"Comme par hasard";1998;"EPIC";1708141691;1708142024;;"https://open.spotify.com/track/71gnWKWNg06KPT34KhlvZu";
+"Kenny Burrell";"Weaver Of Dreams";"Weaver of dreams";1961;"SONY MUSIC LABELS";1708142023;1708142167;"https://www.deezer.com/track/734506602";"https://open.spotify.com/track/4rSJgWMrUK6fsCBq3C4EZi";
+"Heike Matthiesen";"Guitar divas";"Prélude pour guitare en mi min op 46 n°1";2023;"ARS PRODUKTION";1708142166;1708142283;;;
+"Metallica";"Metallica";"Nothing else matters";1991;"VERTIGO";1708142278;1708142657;;;
+"Kaytranada & Rochelle Jordan";"Lover/Friend";"Lover/Friend";2023;"RCA";1708142659;1708142865;;;
+"Kim Anh";"Family affair / Vol. 3";"In the stars";2023;"RAZOR-N-TAPE";1708142857;1708143162;"https://www.deezer.com/track/2573913852";"https://open.spotify.com/track/38egoE8v0NMDddPqCrkpLm";"https://music.apple.com/fr/album/in-the-stars-mixed/1721956715?i=1721956718&uo=4"
+"Gorillaz";"Demon days";"Don't get lost in Heaven";2005;"EMI";1708143158;1708143279;"https://www.deezer.com/track/3129415";"https://open.spotify.com/track/4hjGZN8poACfjWCK3Og6vY";
+"Gorillaz";"Demon days";"Demon days";2005;"EMI";1708143278;1708143545;;"https://open.spotify.com/track/2k6hpKTyubRVOmQR11ViY3";
+"Alain Bashung";"Osez Josephine";"Madame rêve";1991;"BARCLAY";1708143549;1708143836;"https://www.deezer.com/track/983907";"https://open.spotify.com/track/7Cg89s7WNQMsiOnPnKsALE";"https://music.apple.com/fr/album/madame-r%C3%AAve/1442929914?i=1442930286&uo=4"
+"National Philharmonic Orchestra";"Peter Illich Tchaikovsky : les 3 ballets";"Casse-Noisette op 71 : Acte II : Scène n°14 : Pas de deux Variation n°2 : Danse de la fée Dragée";1974;;1708143834;1708143981;;;
+"Rachael & Vilray";"I love a love song !";"I've drawn your face";2023;"NONESUCH RECORDS";1708143979;1708144197;"https://www.deezer.com/track/2070581227";"https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz";"https://music.apple.com/fr/album/ive-drawn-your-face/1651972199?i=1651972308&uo=4"
+"New York Rock Ensemble";"Roll over / Freedomburger";"Fields of joy";1972;"COLLECTOR'S CHOICE MUSIC";1708144194;1708144417;;;
+"Jackson 5";"Dancing machine";"I am love (pt. 1 & 2)";1974;"UNI - MOTOWN";1708144423;1708144869;"https://www.deezer.com/track/920129";;
+"Beastie Boys";"Hello nasty";"Song for junior";1998;"CAPITOL";1708144864;1708145092;;;"https://music.apple.com/fr/album/song-for-junior/778831487?i=778831650&uo=4"
+"Orquesta Akokan";"16 Rayos";"16 Rayos";2021;"DAPTONE RECORDS";1708145085;1708145358;;"https://open.spotify.com/track/6M8WhdyTRtkiVsGKq9bwX4";
+"DJ Cam";"Soulshine";"Summer in Paris";2002;"COLUMBIA";1708145367;1708145725;;;
+"Alain Romans";"Jacques tati / Sonorama";"Quel temps fait-il à Paris ?";1953;"NAIVE RECORDS";1708145720;1708145855;"https://www.deezer.com/track/86185091";;
+"Mary Lou Williams";"Gilles Peterson - digs America 2";"The Pussy's In The Well";2007;"LUV N HAIGHT";1708145853;1708145960;;"https://open.spotify.com/track/7r1NoK6vgUVDOFnHOMcKUA";
+"Eels";"Earth To Dora";"Are we alright again";2020;"PIAS";1708145951;1708146172;;"https://open.spotify.com/track/2nyrHM2pECyxaMb3x5rRo3";"https://music.apple.com/fr/album/are-we-alright-again/1528132135?i=1528132422&uo=4"
+"Iyamah";"Gemini Guy";"Gemini guy";2023;"AUTOPRODUCTION";1708146185;1708146386;;"https://open.spotify.com/track/4FrHTjt1GcPcsxv0TD73OA";"https://music.apple.com/fr/album/gemini-guy/1716696799?i=1716696816&uo=4"
+"Alain Goraguer (Chef d'orchestre)";"BOF / Brigitte Lahaie : Le disque de culte";"La rabatteuse : La Comtesse se dévergonde";1978;"LABEL X";1708146385;1708146608;;;
+"The Belles";"Basement beehive : The girl group underground";"Melvin";1966;"NUMERO GROUP";1708146606;1708146753;;;
+"Erkin Koray";"Meçhul: Singles & rarities";"Goca dünya";2011;"SUBLIME FREQUENCIES";1708146752;1708146987;"https://www.deezer.com/track/103783908";;
+"The Dynamites";"Love is only everything";"Serendipity";2012;"COSMIC GROOVE";1708146985;1708147163;;;
+"Anchorsong";"Cohesion";"Serendipity";2018;"TRU THOUGHTS";1708147170;1708147422;;"https://open.spotify.com/track/3l99TTlEvn2UmlyqedwAAv";
+"Nana Benz Du Togo";"Ago";"J'ai compris";2023;"KOMOS";1708147422;1708147621;;"https://open.spotify.com/track/1tOX9IPlV9ww3gtPzbSwCN";
+"Mieko Hirota";"Touch";"I want to be happy";2023;"WEWANTSOUNDS";1708147620;1708147834;;"https://open.spotify.com/track/4hKVswfsIuvpBi1CiTavqT";
+"Digable Planets";"Reachin' (a new refutation of time and space)";"Rebirth of slick (cool like dat)";1992;"PENDULUM REC";1708147833;1708148093;"https://www.deezer.com/track/3440374";;
+"The Diasonics";"Origin of forms";"Origin";2021;"RECORD KICKS";1708148094;1708148228;;;
+"Andreas Scholl";"Andreas Scholl interprète Mozart Haydn Schubert et Brahms : Wanderer";"Im Haine op 56 n°3 D 738 - pour haute-contre et piano";2012;"DECCA";1708148227;1708148389;;;
+"Sen Morimoto";"Diagnosis";"Deeper";2023;"CITY SLANG";1708148383;1708148691;"https://www.deezer.com/track/2461088825";"https://open.spotify.com/track/5VSLZ631GhbOHcKrxxCNaK";
+"Ten Years After";"Ten years after";"I can't keep from crying, sometimes";1967;"DERAM";1708148683;1708149005;;;"https://music.apple.com/fr/album/i-cant-keep-from-crying-sometimes/1442871890?i=1442871904&uo=4"
+"Mark Knopfler/Chet Atkins";"Neck and neck";"I'll see you In my dreams";1990;"CBS";1708149002;1708149178;;;
+"Baranta";"Hugh Masekela presents the Chisa years 1965-1975";"Wich doctor";2006;"BBE";1708149176;1708149564;;;
+"BO/LE RENARD S EVADE A TROIS HEURES";"BOF / Le renard s'évade à trois heures";"SOMETHING";1966;"Ryko";1708149562;1708149601;;;
+"The Beach Boys";"The beach boys with the royal philharmonic orchestra";"California suite";2018;"UMG RECORDINGS";1708149600;1708149692;;"https://open.spotify.com/track/4fhdPPS6Ylv8Q7chfnXwN4";
+"June Christy";"Something cool";"Softly as in a morning sunrise";1955;"( CAPITOL (ET PM )";1708149691;1708149820;;;"https://music.apple.com/fr/album/softly-as-in-a-morning-sunrise-stereo/1444135245?i=1444135419&uo=4"
+"Mary Roos";"Amour toujours : The french song collection 1972-1975";"Pour faire lever le soleil";1972;"BUREAU B";1708149820;1708150004;;;
+"Kieran Thorpe";"A room with a view";"Mean old blues";2021;"SPINNUP";1708150000;1708150215;;;"https://music.apple.com/fr/album/mean-old-blues/1635108310?i=1635109099&uo=4"
+"Monster Rally";"Crystal ball";"Swanky";2013;"GOLF ROBOT RECORDS";1708150210;1708150352;"https://www.deezer.com/track/69918664";;
+"Astrud Gilberto";"Now";"Take it easy my brother Charlie";1972;"BBE MUSIC";1708150335;1708150535;;"https://open.spotify.com/track/09EK55g8hXAH66KVSUuCgN";"https://music.apple.com/fr/album/take-it-easy-my-brother-charlie/1717755037?i=1717755225&uo=4"
+"Roge";"Existe uma voz";"Existe uma voz";2022;"DIAMOND WEST RECORDS";1708150528;1708150774;;"https://open.spotify.com/track/67FeJNl0O51jh7HqtryxTt";
+"Norah Jones";"Running";"Running";2024;"DECCA RECORDS";1708150747;1708150953;;"https://open.spotify.com/track/1TX83ZAjBcPPch8iy0aNve";"https://music.apple.com/fr/album/running/1725041334?i=1725041515&uo=4"
+"Ezechiel Pailhes";"Tout va bien";"Octobre";2017;"CIRCUS COMPANY";1708150951;1708151116;"https://www.deezer.com/track/142999350";"https://open.spotify.com/track/4i3VEozXMJnnPmTXJWoJW4";"https://music.apple.com/fr/album/octobre/1210135225?i=1210135665&uo=4"
+"Owen Gray";"Soul Jazz records presents : Studio One rocksteady volume 2";"Give me a little sign";1968;"SOUL JAZZ RECORDS";1708151085;1708151268;"https://www.deezer.com/track/137645227";;
+"Aretha Franklin";"Young gifted and black";"Rock steady";1972;"ATLANTIC";1708151264;1708151458;;"https://open.spotify.com/track/7rvGZDlfqCjY9EWEUg3Xs6";"https://music.apple.com/fr/album/rock-steady/266602438?i=266606802&uo=4"
+"Jon Onj";"Love machine";"I can't wait too long";2024;"WISER RECORDS";1708151448;1708151604;;"https://open.spotify.com/track/3GVbNSYfnhgc7ja74bgU4Y";
+"J. Rawls";"Jazzhop";"Stay";2022;"POLAR ENTERTAINMENT";1708151604;1708151734;;;
+"Camelia Jordana";"Camelia Jordana";"Je pars";2010;"SONY MUSIC";1708151726;1708151906;;"https://open.spotify.com/track/0KhWFBvWtOmsvxjSGXRAGR";"https://music.apple.com/fr/album/je-pars/360806084?i=360806215&uo=4"
+"Emiliana Torrini";"Me and armini";"Big Jumps";2008;"ROUGHTRADE";1708151901;1708152082;"https://www.deezer.com/track/2104114";"https://open.spotify.com/track/30R1Yz4AaMmOdEkUQbXy7K";"https://music.apple.com/fr/album/big-jumps/289405558?i=289405623&uo=4"
+"Gruff Rhys";"Sadness sets me free";"Silver lining (lead balloons)";2024;"ROUGH TRADE RECORDS";1708152081;1708152319;;;"https://music.apple.com/fr/album/silver-lining-lead-balloons/1706554248?i=1706554269&uo=4"
+"Michael Giacchino";"BOF / Là-haut";"Là-haut : Married life";2009;"WALT DISNEY RECORDS";1708152315;1708152563;;;
+"Etta James";"At last";"At last";1961;"CHESS";1708152512;1708152690;"https://www.deezer.com/track/2690026082";;
+"Mary Hopkin";"Those were the days";"Temma Harbour";1995;"APPLE (ET PM)";1708152689;1708152889;;;
+"P'tit Belliveau";"Un homme et son piano";"J'aimerais d'avoir un John Deere";2022;"BONSOUND";1708152886;1708153106;"https://www.deezer.com/track/1522486842";"https://open.spotify.com/track/4Uo8HfteTDB2J4pph0Nz2z";
+"Hawaiian Pistoleros";"Something strange";"Beep beep boogie";2023;"COCONUT ISLAND / MAAULA RECORDS";1708153102;1708153316;"https://www.deezer.com/track/2464861585";"https://open.spotify.com/track/7F185SNC7lqm4iKRWIWoIC";"https://music.apple.com/fr/album/beep-beep-boogie/1708391721?i=1708392636&uo=4"
+"Herman Dune";"BOF / Mariage a Mendoza";"Brothers (instrumental)";2013;"STRANGE MOOSIC";1708153306;1708153469;;;
+"Buena Vista Social Club";"Buena Vista social club";"Chan chan";1997;"N DAY";1708153467;1708153736;;"https://open.spotify.com/track/3bxZhauuIU4ubctdRZwPYW";"https://music.apple.com/fr/album/chan-chan-monitor-mix/1675123648?i=1675123664&uo=4"
+"Mabel Scott";"Scott mabel/1951-1955";"Boogie woogie choo choo train";1948;"BODY & SOUL";1708153719;1708153903;;;
+"Mac Demarco";"Here comes the cowboy";"Choo Choo";2019;"CAROLINE";1708153903;1708154057;;"https://open.spotify.com/track/6AkGsHilWb1yv6tGkERpMp";
+"Jon Brion";"Bof / I love huckabees";"JB's blues";2004;"MILAN";1708154054;1708154190;;;
+"Beirut";"Hadsel";"Spillhaugen";2023;"POMPEII RECORDS";1708154188;1708154407;"https://www.deezer.com/track/2390519905";"https://open.spotify.com/track/3ZckRcIduBG7yECkc9hhAd";
+"Pale Jay";"Bewilderment";"In your corner";2023;"KARMA CHIEF RECORDS";1708154403;1708154621;;"https://open.spotify.com/track/4HPP042w1tLbGGqqVGVfHE";"https://music.apple.com/fr/album/in-your-corner/1692950684?i=1692951288&uo=4"
+"The Supremes";"Motown grammy rhythm & blues performances of the 1960's & 1970""""S";"Baby love";1964;"MOTOWN";1708154620;1708154774;"https://www.deezer.com/track/67057218";"https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr";"https://music.apple.com/fr/album/baby-love/1418232163?i=1418235269&uo=4"
+"Peter Dean Et Son Orchestre";"Voulez-vous twister grand mère ?";"Sherry";1965;"CBS";1708154773;1708154894;;;
+"Pascal Comelade";"Danses et chants de syldavie";"Egyptian reggae";1993;"DELABEL";1708154893;1708154994;;;
+"Jonathan Richman And The Modern Lovers";"Back in your life";"Abdul and Cleopatra";1979;"BESERKLEY";1708154993;1708155189;;;
+"Erlend Øye";"Legao";"Whistler";2014;"BUBBLES";1708155187;1708155361;;"https://open.spotify.com/track/2diEu8fmpFkTN4h5GvP4xq";
+"Helado Negro";"Phasor";"Best for you and me";2024;"4AD";1708155358;1708155658;"https://www.deezer.com/track/2593001132";"https://open.spotify.com/track/6AwnFyD3ipazsvlgasiIMd";"https://music.apple.com/fr/album/best-for-you-and-me/1708555076?i=1708555190&uo=4"
+"Eden Ahbez";"Eden's island";"Tradewind";1960;"COLLECTORS C";1708155537;1708155714;;"https://open.spotify.com/track/0pinGWTd0Nc6TSecLiEIoP";
+"Hindi Zahra";"Until the next journey";"Ahiawa (Unplugged)";2014;"PARLOPHONE LABEL GROUP";1708155712;1708156001;;;
+"Peter Doherty";"Grace - wastelands";"Arcady";2009;"PARLOPHONE";1708155999;1708156175;"https://www.deezer.com/track/3309400";"https://open.spotify.com/track/7pfdjItVsF5GHm28NjSNer";
+"The Ray Brown Orchestra";"BOF / Les derniers aventuriers";"Go down dying";1970;"VARESE SARABANDE";1708156164;1708156312;;;
+"T Rex";"Electric warrior";"Get it on";1971;"UNIVERSAL MUSIC (LABEL & DISTRIBUTEUR)";1708156304;1708156566;;;
+"Aquaserge";"Laisse ça être";"Tour Du Monde";2017;"ALMOST MUSIC / CRAMMED DISCS";1708156564;1708156807;;"https://open.spotify.com/track/6Me5q0oqMukIoxP2qry1cs";
+"Joe Thomas";"Brown sugar presents Paint it black";"Polarizer";1976;"BROWN SUGAR";1708156806;1708157133;;"https://open.spotify.com/track/7yxTWOioiqEW5ndGLmKk9n";
+"Patrice Rushen";"Patrice";"Music of the earth";1978;"ELEKTRA";1708157133;1708157458;"https://www.deezer.com/track/677947292";"https://open.spotify.com/track/2FMRihC1szTQtsiPIjonMh";"https://music.apple.com/fr/album/music-of-the-earth/1319507690?i=1319508286&uo=4"
+"Dr Buzzard S Original Savannah Band";"Going places / The august darnell years 1976 -1983";"Sunshower";1976;"STRUT";1708157358;1708157601;;;
+"Mia";"Arular";"Sunshowers";2005;"XL RECORDINGS";1708157597;1708157790;;;
+"Molly Lewis";"On the lips";"Porque te vas";2024;"JAGJAGUWAR";1708157791;1708157977;"https://www.deezer.com/track/2507484011";"https://open.spotify.com/track/4gz8byCTwlLFFqMYyVhQ32";"https://music.apple.com/fr/album/porque-te-vas/1712878079?i=1712878416&uo=4"
+"Jeanette";"Jeanette canta """"Porque te vas""""/B.O.F Cria cuervos de Carlos Saura";"Porque te vas";1976;"EMI";1708157974;1708158174;"https://www.deezer.com/track/64141637";;
+"Margo Guryan";"27 Demos";"California shake";1968;"THE OGLIO ENTERTAINMENT GROUP";1708158171;1708158376;"https://www.deezer.com/track/2303977015";;
+"Ricky Hollywood";"Ricky & les dix-iples";"La grande réconciliation";2017;"LA SOUTERRAINE";1708158373;1708158596;;;
+"Ernest Ranglin";"Below the bassline";"Surfin'";1996;"ISLAND";1708158593;1708158936;;"https://open.spotify.com/track/7k7syXYFuHNfY06Z2rftoh";"https://music.apple.com/fr/album/surfin/1444023621?i=1444023735&uo=4"
+"Yussef Dayes";"Black classical music";"Womans touch (feat. Jamilah Barry)";2023;"BROWNSWOOD / CASHMERE THOUGHTS / NONESUCH";1708158934;1708159257;;;
+"Daft Punk";"Discovery";"Something About Us";2001;"LABELS";1708159141;1708159369;;"https://open.spotify.com/track/1NeLwFETswx8Fzxl2AFl91";
+"Str4ta";"STR4TASFEAR";"Night flight";2022;"BROWNSWOOD RECORDINGS";1708159366;1708159690;;"https://open.spotify.com/track/562MhGWpRU9t984Z3LLdd0";"https://music.apple.com/fr/album/night-flight/1643490004?i=1643490388&uo=4"
+"Frankie Valli & The Four Seasons";"Anthology";"Can't Take My Eyes Off You";1967;"RHINO RECORS";1708159688;1708159889;;;
+"Alice Dona";"Alice Dona : Intégrale en français et inédits en langues étrangères / Succès 1963 - 1964";"C'est pas prudent";1963;"EMI";1708159888;1708160041;;;
+"Donald Byrd";"A New Perspective";"Cristo redentor";1963;"BLUE NOTE";1708160039;1708160379;;;"https://music.apple.com/fr/album/cristo-redentor/914859459?i=914859469&uo=4"
+"Bob Corritore";"Taboo";"Many a devil's night";2014;"DELTA GROOVE MUSIC";1708160377;1708160625;"https://www.deezer.com/track/76261560";"https://open.spotify.com/track/6gqA4yzq9WU58UsPRMwcov";
+"Balm";"Strange flower";"Strange flower";2023;"EBISU RECORDS";1708160624;1708160869;;"https://open.spotify.com/track/0Shj8cgklVgjRJs4MK8Ko7";"https://music.apple.com/fr/album/strange-flower/1705930539?i=1705930541&uo=4"
+"Cookie Monster And The Girls";"Sesame street fever";"C is for cookie";1978;"ADES";1708160864;1708161210;;;
+"Michael Franks";"The Michael Franks anthology : The art of love";"When the cookie jar is empty";1978;"WARNER";1708161202;1708161505;"https://www.deezer.com/track/5621089";"https://open.spotify.com/track/5SaggsBF5kOc7v8GpXQx9Y";"https://music.apple.com/fr/album/when-the-cookie-jar-is-empty/357949728?i=357949834&uo=4"
+"Stan Getz";"Jazz samba";"Desafinado";1963;"VERVE";1708161504;1708161853;;;
+"Chico Buarque";"Bossa Nova : l'âme bohème du Brésil (cd promo)";"Essa moça ta diferente";1970;"VERVE";1708161853;1708162018;"https://www.deezer.com/track/78761187";"https://open.spotify.com/track/2RBQAtDa21nzhSNdJwkopD";
+"Oracle Sisters";"Hydranism";"Ruby on the run";2023;"22 TWENTY";1708162016;1708162158;"https://www.deezer.com/track/1907922887";"https://open.spotify.com/track/0cPgPFL5ERy8qX9iB7M4fa";"https://music.apple.com/fr/album/ruby-on-the-run/1644471852?i=1644472339&uo=4"
+"Loving";"Any light";"Medicine";2024;"LAST GANG RECORDS / MNRK";1708162157;1708162412;;"https://open.spotify.com/track/3VKpwyotvKbHGdPO8fQD04";
+"Jean-Philippe Collard";"Gabriel Fauré : 13 nocturnes et autres oeuvres pour piano";"Thème et variations pour piano en ut dièse min op 73 : Variation n°11";1982;"EMI";1708162409;1708162566;;;
+"Nelick";"Vanille fraise";"Triple triple cheese";2022;"ENTREPRISE / SONY MUSIC";1708162562;1708162725;;"https://open.spotify.com/track/2z3JlMsU0kfA1aeQnCRrbf";
+"Yaya Bey";"Chasing the bus";"Chasing the bus";2024;"BIG DADA";1708162719;1708162904;;"https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z";
+"Ramp";"Sweet 70's soul groove";"Everybody loves the sunshine";1976;"BLOW RECORDINGS";1708162903;1708163122;"https://www.deezer.com/track/954678";;
+"Sonny Clark";"Standards";"Ain't no use";1958;"BLUE NOTE";1708163117;1708163362;"https://www.deezer.com/track/3266970";;"https://music.apple.com/fr/album/aint-no-use/1436732085?i=1436732332&uo=4"
+"Ashley Henry";"My voice";"Day Dream";2023;"NAIVE RECORDS";1708163360;1708163651;;"https://open.spotify.com/track/0pmfzrYIaHzPQ0DYnRWLwi";"https://music.apple.com/fr/album/day-dream/1677444473?i=1677444638&uo=4"
+"Laryssa Kim";"Contezza";"L'Attente - Auspicio";2024;"CITY TRACKS";1708163644;1708163907;;"https://open.spotify.com/track/5evkRUOviUaKdbFhTajZKi";"https://music.apple.com/fr/album/lattente-auspicio/1725047669?i=1725047971&uo=4"
+"Stina Nordenstam";"This is stina nordenstam";"Everyone else in the world";2001;"SMALL/SONY";1708163895;1708164073;;"https://open.spotify.com/track/1pmmWF3qZO1DWodZiQ0h0O";
+"Gabi Hartmann";"Nowhere to Hide";"Nowhere to Hide";2024;"SONY MUSIC ENTERTAINMENT";1708164071;1708164268;"https://www.deezer.com/track/2532767181";"https://open.spotify.com/track/2kgTT46SOeDyViOIWtmU1N";
+"Mark Olson And Gary Louris";"Ready for the flood";"Saturday morning on sunday street";2008;"NEW WEST";1708164265;1708164494;;;
+"La Maison Tellier";"Beauté pour tous";"Prison d'Eden";2013;"AT HOME";1708164491;1708164733;;"https://open.spotify.com/track/0EuuhGUgJqf8mRzUQw7t0m";"https://music.apple.com/fr/album/prison-deden/687812866?i=687813032&uo=4"
+"Forro In The Dark";"Bonfires of Sao Joao";"Forrowest";2006;"NUBLU RECORD";1708164729;1708165012;;"https://open.spotify.com/track/4KzOJdqRTYAouueUtnNNvx";
+"Céu";"Um gosto de sol";"Pode esperar";2021;"WARNER";1708165010;1708165230;;"https://open.spotify.com/track/76zAqNO6ROXpC9X3Himk9e";
+"Aja Monet";"When the poems do what they do";"Give thanks";2023;"DRINK SUM WTR";1708165223;1708165606;"https://www.deezer.com/track/2200615617";"https://open.spotify.com/track/3fNTd4iHqZFcCAGuB6k3ta";
+"Ahmad Jamal";"The awakening";"Dolphin dance";1970;"IMPULSE";1708165603;1708165907;;;
+"Claude Nougaro";"Jazz et java";"La pluie fait des claquettes";1968;"MERCURY";1708165907;1708166103;;;
+"Betty Harris";"The lost queen of new orleans soul";"Nearer to you";1963;"SOUL JAZZ RECORDS";1708166101;1708166273;;;"https://music.apple.com/fr/album/nearer-to-you/1136696520?i=1136697806&uo=4"
+"Natascha Rogers";"Onaida";"See";2024;"NO FORMAT";1708166270;1708166425;;"https://open.spotify.com/track/25x2QayZ1Ad6xprHex6QoA";"https://music.apple.com/fr/album/see/1720777370?i=1720777382&uo=4"
+"Asta Hiroki";"Never lose an opportunity";"Never lose an opportunity";2023;"FOLDED MUSIC";1708166422;1708166584;"https://www.deezer.com/track/2266139707";"https://open.spotify.com/track/6cVsPnXfSbWCph297VIeE6";"https://music.apple.com/fr/album/never-lose-an-opportunity/1686297089?i=1686297104&uo=4"
